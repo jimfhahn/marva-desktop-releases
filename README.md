@@ -18,7 +18,7 @@ The installers are signed (and notarized on macOS). Each release lists their che
 
 ## Problems and questions
 
-- **Bugs and questions:** open an issue on the [Issues](https://github.com/jimfhahn/marva-desktop-releases/issues) page. Say which computer and which version (Marva → About Marva Desktop) you're using.
+- **Bugs and questions:** open an issue on the [Issues](https://github.com/jimfhahn/marva-desktop-releases/issues) page. Say which computer and which version (Marva → About Marva Desktop on a Mac; Help → About on Windows and Linux) you're using.
 - **Security problems:** please don't open a public issue. Use **Report a vulnerability** on the [Security](https://github.com/jimfhahn/marva-desktop-releases/security) tab instead.
 
 When testing export to Alma, please use an Alma **Sandbox** key, not a production key.
